@@ -12,8 +12,8 @@ Practice ReactJS、Spinrg Data with Spring Boot
 - Lombok ( 此項目需確認使用的IDE是否支援 )
 
 此範例使用 
-- 後端 : Java 8,Maven專案,最新穩定版的Spring Boot
-- 前端 : ReactJS,ES6
+- 後端 : Java 8, Maven, Spring Boot
+- 前端 : ReactJS, ES6
 
 ---
 
